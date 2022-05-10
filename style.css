@@ -1,0 +1,26 @@
+:root {
+    
+    --description: 'Libre Franklin', sans-serif; 
+  }
+.about{
+    margin-left: 165px;
+    margin-top: 53px;
+    margin-bottom: 76px;
+    font-family: var(--description);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+}
+.info{
+    margin-left: 166px;
+    margin-bottom: 115px;
+    font-family: var(--description);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+    color: #333333;
+}
